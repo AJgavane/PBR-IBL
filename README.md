@@ -1,2 +1,2 @@
-# PBR-IBL
-PBR - Image based lighting
+# Environment-Mapping
+Implementation of Standard environment mapping.
